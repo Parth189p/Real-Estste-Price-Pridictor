@@ -1,0 +1,13 @@
+Model Outputs 
+
+1.desision tree
+    Mean: 4.207225187158817
+    Standard deviation: 0.8745567547159991
+
+2.linear Regrassion
+    Mean: 5.030437102767306
+    Standard deviation: 1.0607661158294837
+    
+3. RandomForest Regrassion
+    Mean: 3.3009631251857217
+    Standard deviation: 0.7076841067486248
