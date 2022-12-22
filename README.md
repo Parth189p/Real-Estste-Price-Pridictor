@@ -3,4 +3,4 @@ In this Project I worked on a real-world dataset. Using different data science t
 
 In this project i used different libraries of python to perform data analysis and to build a machine learning model.
 
-  The dataset that I used in this project is the Uci dataset of boaston mschine learning.
+  The dataset that I used in this project is the UCI dataset of boaston housing.
